@@ -1,44 +1,9 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
-    },
-    {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
-      "id": 5,
-      "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
-    },
-    {
-      "id": 6,
-      "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
-      "author": "Audre Lorde"
-    },
-    {
       "id": 7,
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
       "author": "Confucius"
-    },
-    {
-      "id": 8,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Muhammad Ali"
     },
     {
       "id": 9,
@@ -58,14 +23,69 @@
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
-    {
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 7,
+      "id": 1,
+      "createdAt": 1622166754601
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1622207997652,
+      "id": 3
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1622208001054,
+      "id": 4
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1622208033848,
+      "id": 5
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1622208035851,
+      "id": 6
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1622208036739,
+      "id": 7
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1622208072433,
+      "id": 8
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1622208157599,
+      "id": 9
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1622208170627,
+      "id": 10
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1622208172069,
+      "id": 11
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1622208173315,
+      "id": 12
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1622208174134,
+      "id": 13
     }
   ]
 }
